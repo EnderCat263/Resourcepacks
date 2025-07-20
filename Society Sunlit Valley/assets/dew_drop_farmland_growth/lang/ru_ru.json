@@ -1,0 +1,19 @@
+{
+  "itemGroup.dew_drop_farmland_growth": "Dew Drop - Улучшенные почвы",
+  "block.dew_drop_farmland_growth.weak_fertilized_farmland": "Слабо удобренная почва",
+  "block.dew_drop_farmland_growth.strong_fertilized_farmland": "Сильно удобренная почва",
+  "block.dew_drop_farmland_growth.hyper_fertilized_farmland": "Гипер удобренная почва",
+  "block.dew_drop_farmland_growth.hydrating_farmland": "Увлажняющая почва",
+  "block.dew_drop_farmland_growth.low_quality_fertilized_farmland": "Низкокачественная удобренная почва",
+  "block.dew_drop_farmland_growth.high_quality_fertilized_farmland": "Высококачественная удобренная почва",
+  "block.dew_drop_farmland_growth.pristine_quality_fertilized_farmland": "Идеальная удобренная почва",
+  "block.dew_drop_farmland_growth.bountiful_fertilized_farmland": "Щедро удобренная почва",
+  "item.dew_drop_farmland_growth.weak_fertilizer": "Слабое удобрение",
+  "item.dew_drop_farmland_growth.strong_fertilizer": "Сильное удобрение",
+  "item.dew_drop_farmland_growth.hyper_fertilizer": "Гипер удобрение",
+  "item.dew_drop_farmland_growth.hydrating_fertilizer": "Увлажняющее удобрение",
+  "item.dew_drop_farmland_growth.bountiful_fertilizer": "Щедрое удобрение",
+  "item.dew_drop_farmland_growth.low_quality_fertilizer": "Низкокачественное удобрение",
+  "item.dew_drop_farmland_growth.high_quality_fertilizer": "Высококачественное удобрение",
+  "item.dew_drop_farmland_growth.pristine_quality_fertilizer": "Идеальное удобрение"
+}

@@ -1,0 +1,18 @@
+{
+  "itemGroup.extractinator.main": "Экстрактор",
+  "block.extractinator.extractinator": "Экстрактор",
+  "block.extractinator.silt": "Ил",
+  "block.extractinator.slush": "Шлам",
+  "emi.category.extractinator.extractinator": "Экстрактор",
+  "text.extractinator.drop_chance": "Шанс выпадения: %s%%",
+  "text.resourcefulconfig.extractinator.option.extractTicks": "Тики экстракции",
+  "text.resourcefulconfig.extractinator.option.extractTicks.tooltip": "Время, необходимое для обработки одного блока в экстракторе",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability": "Прочность экстрактора",
+  "text.resourcefulconfig.extractinator.option.extractinatorDurability.tooltip": "Количество использований до поломки экстрактора",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier": "Множитель добычи",
+  "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "Умножает количество выпадаемых ресурсов на это значение",
+  "text.resourcefulconfig.extractinator.option.silent": "Тихий режим",
+  "text.resourcefulconfig.extractinator.option.silent.tooltip": "Должен ли экстрактор работать бесшумно",
+  "text.resourcefulconfig.extractinator.option.worldgen": "Генерация в мире",
+  "text.resourcefulconfig.extractinator.option.worldgen.tooltip": "[Только для Fabric] Генерирует руды ила и шлама в мире"
+}

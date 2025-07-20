@@ -1,0 +1,44 @@
+{
+  "item.rehooked.wood_hook": "Деревянный крюк",
+  "item.rehooked.iron_hook": "Железный крюк",
+  "item.rehooked.diamond_hook": "Алмазный крюк",
+  "item.rehooked.red_hook": "Красный крюк",
+  "item.rehooked.blaze_hook": "Пылающий крюк",
+  "item.rehooked.ender_hook": "Крюк Края",
+  
+  "block.rehooked.wood_chain": "Деревянная цепь",
+  "block.rehooked.diamond_chain": "Алмазная цепь",
+  "block.rehooked.blaze_chain": "Огненная цепь",
+  "block.rehooked.ender_chain": "Цепь Края",
+  "item.rehooked.wood_chain": "Деревянная цепь",
+  "item.rehooked.diamond_chain": "Алмазная цепь",
+  "item.rehooked.blaze_chain": "Огненная цепь",
+  "item.rehooked.ender_chain": "Цепь Края",
+  
+  "creative.tab.hooks": "Крюки",
+
+  "tooltip.rehooked:wood_hook.info": "Простое решение для выхода из ям и лазания по деревьям",
+  "tooltip.rehooked:iron_hook.info": "Позволяет зависать в воздухе, зацепившись за две противоположные точки",
+  "tooltip.rehooked:diamond_hook.info": "Много крюков, высокая скорость.",
+  "tooltip.rehooked:red_hook.info": "Творческий полёт в пределах зоны, заданной крюками",
+  "tooltip.rehooked:blaze_hook.info": "Невероятно быстрый! (и невероятно горячий)",
+  "tooltip.rehooked:ender_hook.info": "Быстрый. Очень, очень быстрый.",
+  "tooltip.rehooked.press_shift_more_info": "<Нажмите §eShift§r, чтобы увидеть управление>",
+  "tooltip.rehooked.press_fire": "Нажмите %1$s, чтобы выстрелить",
+  "tooltip.rehooked.press_retract": "Нажмите %1$s, глядя на крюк, чтобы отцепиться",
+  "tooltip.rehooked.press_retract_all": "Нажмите %1$s, чтобы убрать все крюки",
+  "tooltip.rehooked:wood_chain.info": "Не очень прочная, в следующий раз стоит найти материал получше...",
+  "tooltip.rehooked:diamond_chain.info": "Очень блестит, но всё же не так быстра, как свет.",
+  
+  "curios.identifier.hook": "Крюк",
+  
+  "key.categories.rehooked": "ReHooked",
+  "key.rehooked.fire_hook_key": "Выстрелить крюком",
+  "key.rehooked.retract_hook_key": "Отцепить крюк",
+  "key.rehooked.remove_all_hooks_key": "Убрать все крюки",
+  
+  "sounds.rehooked.hook_hit": "Крюк вонзился",
+  "sounds.rehooked.hook_retract": "Крюк отцепляется",
+  "sounds.rehooked.hook_shoot": "Выстрел крюка",
+  "sounds.rehooked.hook_miss": "Крюк промахнулся"
+}
